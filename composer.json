@@ -1,0 +1,17 @@
+{
+    "name": "thiagoci/wallsio",
+    "autoload": {
+        "psr-4": {
+            "ThiagoCI\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "ThiagoCI",
+            "email": "thiagoci.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
