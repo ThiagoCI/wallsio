@@ -10,8 +10,7 @@ class Post extends WallsIO
     }
     public function send()
     {
-
+        echo "Send: {$this->api_key}";
     }
-
    
 }
