@@ -2,7 +2,7 @@
     "name": "thiagoci/wallsio",
     "autoload": {
         "psr-4": {
-            "ThiagoCI\\": "src"
+            "ThiagoCI\\WallsIO\\": "src"
         }
     },
     "authors": [
